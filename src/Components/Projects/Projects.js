@@ -30,7 +30,7 @@ const Projects = () => {
             <br></br> - Heroku was used by the Back End to setup the parsed REST
             API. <br></br>
             <br></br>
-            <a href="https://github.com/Squadfinder/frontend">
+            <a target="_blank" href="https://github.com/Squadfinder/frontend">
               View the GitHub repository
             </a>
           </p>
@@ -53,11 +53,17 @@ const Projects = () => {
             intercept and stub fetch calls for End to End Testing with Cypress.{" "}
             <br></br>
             <br></br>
-            <a href="https://nickliggett.github.io/WhoSaidThat-LOTR/">
+            <a
+              target="_blank"
+              href="https://nickliggett.github.io/WhoSaidThat-LOTR/"
+            >
               View the Application
             </a>
             <br></br>
-            <a href="https://github.com/NickLiggett/WhoSaidThat-LOTR">
+            <a
+              target="_blank"
+              href="https://github.com/NickLiggett/WhoSaidThat-LOTR"
+            >
               View the GitHub repository
             </a>
           </p>

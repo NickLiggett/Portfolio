@@ -14,13 +14,18 @@ const Nav = () => {
         <div className="nav-link">Projects</div>
       </NavLink>
       <div>
-        <a className="nav-link" href="https://github.com/NickLiggett">
+        <a
+          className="nav-link"
+          target="_blank"
+          href="https://github.com/NickLiggett"
+        >
           GitHub
         </a>
       </div>
       <div>
         <a
           className="nav-link"
+          target="_blank"
           href="https://www.linkedin.com/in/nick-liggett/"
         >
           LinkedIn
