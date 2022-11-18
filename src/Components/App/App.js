@@ -11,7 +11,7 @@ function App() {
     <main>
       <Header />
       <Nav />
-      <Route exact path="/">
+      <Route exact path="/Portfolio">
         <AboutMe />
       </Route>
       <Route exact path="/resume">
