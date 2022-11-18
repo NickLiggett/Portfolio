@@ -14,10 +14,10 @@ function App() {
       <Route exact path="/Portfolio">
         <AboutMe />
       </Route>
-      <Route exact path="/resume">
+      <Route exact path="/Portfolio/resume">
         <Resume />
       </Route>
-      <Route exact path="/projects">
+      <Route exact path="/Portfolio/projects">
         <Projects />
       </Route>
     </main>
