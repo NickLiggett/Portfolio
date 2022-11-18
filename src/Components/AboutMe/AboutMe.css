@@ -1,0 +1,24 @@
+.about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.mountainPic {
+    width: 20%;
+    min-width: 400px;
+}
+
+.about-me-blurb {
+    padding: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 80%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 5em 0.5em;
+    box-shadow: 7px 6px 10px;
+}

@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    padding: 1%;
+    border-bottom: solid;
+}
+
+.nav-link {
+    font-size: 1.5em;
+    font-family: Nervada;
+    color: black;
+}
