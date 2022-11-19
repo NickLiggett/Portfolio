@@ -1,12 +1,13 @@
 import "./Resume.css";
-import resume from "../../images/Nicholas Liggett Resume.pdf";
+import resume from "../../images/Resume.png";
 
 const Resume = () => {
   return (
-    <embed
-      className="resume"
-      src={resume}
-    ></embed>
+    // <embed
+    //   className="resume"
+    //   src={resume}
+    // ></embed>
+    <img src={resume} style={{width: "60%"}}/>
   );
 };
 
