@@ -1,6 +1,9 @@
 import "./Projects.css";
 import squadFinderGif from "../../images/SelectProfile-HomeScreen.gif";
 import LotrGif from "../../images/WSTLOTR.gif";
+import dndGif from "../../images/DNDCharGen.gif";
+import randyTomGif from "../../images/randyTom.gif";
+import overlookGif from "../../images/overlook.gif";
 
 const Projects = () => {
   return (
@@ -10,7 +13,7 @@ const Projects = () => {
         <div className="project-details">
           <img className="squad-finder-gif" src={squadFinderGif} />
           <p className="project-blurb">
-            <h3 className="description-title">Description:</h3> <br></br> - This
+            <h3 className="description-title">Description</h3> <br></br> - This
             project's Front End was built with React Native and was nominated
             for Turing School of Software and Design's Demo Competition.
             <br></br>
@@ -41,7 +44,7 @@ const Projects = () => {
         <div className="project-details">
           <img className="lotr-gif" src={LotrGif} />
           <p className="project-blurb">
-            <h3 className="description-title">Description:</h3> <br></br> - This
+            <h3 className="description-title">Description</h3> <br></br> - This
             project was built in React.
             <br></br>
             <br></br> - A hidden API key was used to retrieve data from a hosted
@@ -70,13 +73,64 @@ const Projects = () => {
         </div>
       </div>
       <div className="project" id="project-3">
-        Randy Tom Burritos
+        <h2 className="project-title">Randy Tom Burritos</h2>
+        <div className="project-details">
+          <img className="randy-tom-gif" src={randyTomGif} />
+          <p className="project-blurb">
+            <h3 className="description-title">Description</h3>
+            <br></br>- This project was a play off of Rotten Tomatoes and was
+            built in React.
+            <br></br>
+            <br></br>- React Router was used to create dynamic endpoints based
+            on a data structure received as a promise from a fetch call to a
+            hosted REST API.
+            <br></br>
+            <br></br>- End to End Testing was implemented via Cypress.
+            <br></br>
+            <br></br>
+            <a
+              target="_blank"
+              href="https://nickliggett.github.io/RandyTomBurritos/"
+            >
+              View the Application
+            </a>
+            <br></br>
+            <a href="https://github.com/NickLiggett/RandyTomBurritos">
+              View the GitHub repository
+            </a>
+          </p>
+        </div>
       </div>
       <div className="project" id="project-4">
-        D&D Character Generator
+        <h2 className="project-title">D&D Character Generator</h2>
+        <div className="project-details">
+          <img className="dnd-gif" src={dndGif} />
+          <p className="project-blurb">
+            <h3 className="description-title">Description</h3>
+            <br></br>- This project was built in React using TypeScript.{" "}
+            <br></br>
+            <br></br>- React Router was used to create dynamic endpoints based
+            on a data structure received as a promise from a fetch call to a
+            hosted REST API.
+            <br></br>
+            <br></br>- End to End Testing was implemented via Cypress.
+          </p>
+        </div>
       </div>
       <div className="project" id="project-5">
-        Who Said That?
+        <h2 className="project-title">Overlook Hotel</h2>
+        <div className="project-details">
+          <img className="overlook-gif" src={overlookGif} />
+          <p className="project-blurb">
+            <h3 className="description-title">Description</h3>
+            <br></br>- This project was built in vanilla JavaScript.
+            <br></br>
+            <br></br>- Data from a REST API, running on a local server, was
+            extracted using fetch calls. <br></br>
+            <br></br>- Utilized Class to Class interaction in order to successfully posted data to the REST API running on a
+            local server.
+          </p>
+        </div>
       </div>
     </div>
   );
