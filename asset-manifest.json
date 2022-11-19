@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.0621fd35.css",
-    "main.js": "/Portfolio/static/js/main.86637394.js",
+    "main.css": "/Portfolio/static/css/main.6413590a.css",
+    "main.js": "/Portfolio/static/js/main.27932a60.js",
+    "static/media/randyTom.gif": "/Portfolio/static/media/randyTom.4acdd5f5d6b418332adb.gif",
+    "static/media/overlook.gif": "/Portfolio/static/media/overlook.32e8bb121afc0477072b.gif",
+    "static/media/DNDCharGen.gif": "/Portfolio/static/media/DNDCharGen.5e17920fa6b769e4bb7f.gif",
     "static/media/WSTLOTR.gif": "/Portfolio/static/media/WSTLOTR.6e65c1f59a2bd81a3ba3.gif",
     "static/media/SelectProfile-HomeScreen.gif": "/Portfolio/static/media/SelectProfile-HomeScreen.e66aa8ac8ae186c8f976.gif",
     "static/media/Resume.png": "/Portfolio/static/media/Resume.b6742d85c429ccd7573f.png",
     "static/media/mountain-nick.jpeg": "/Portfolio/static/media/mountain-nick.b474504e30d2ced16f47.jpeg",
     "static/media/Nervada.ttf": "/Portfolio/static/media/Nervada.098e09d1c0234431f9c8.ttf",
     "index.html": "/Portfolio/index.html",
-    "main.0621fd35.css.map": "/Portfolio/static/css/main.0621fd35.css.map",
-    "main.86637394.js.map": "/Portfolio/static/js/main.86637394.js.map"
+    "main.6413590a.css.map": "/Portfolio/static/css/main.6413590a.css.map",
+    "main.27932a60.js.map": "/Portfolio/static/js/main.27932a60.js.map"
   },
   "entrypoints": [
-    "static/css/main.0621fd35.css",
-    "static/js/main.86637394.js"
+    "static/css/main.6413590a.css",
+    "static/js/main.27932a60.js"
   ]
 }
