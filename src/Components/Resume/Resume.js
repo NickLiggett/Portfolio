@@ -6,6 +6,7 @@ const Resume = () => {
     <embed
       className="resume"
       src={resume}
+      style={{width: "80%", height: "100%"}}
     ></embed>
   );
 };
