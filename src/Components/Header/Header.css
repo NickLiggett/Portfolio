@@ -1,14 +1,11 @@
-@font-face {
-    font-family:"Nervada";
-    src: url("../../fonts/Nervada.ttf") format("truetype");
-  }
 
 header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-family: "Nervada";
+    font-family: 'Lucida Grande';
     width: 100%;
+    color: ghostwhite;
 }
 
 .name-wrapper {
@@ -22,11 +19,11 @@ header {
     margin-bottom: -1%;
     margin-left: 1%;
     margin-right: 1%;
-    font-size: 4em
+    font-size: 4em;
 }
 
 .title {
-    margin: 0%;
+    margin: 1%;
     font-size: 1.5em;
     text-align: center;
 }

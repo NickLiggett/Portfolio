@@ -95,14 +95,17 @@ const Projects = () => {
               View the Application
             </a>
             <br></br>
-            <a href="https://github.com/NickLiggett/RandyTomBurritos">
+            <a
+              target="_blank"
+              href="https://github.com/NickLiggett/RandyTomBurritos"
+            >
               View the GitHub repository
             </a>
           </p>
         </div>
       </div>
       <div className="project" id="project-4">
-        <h2 className="project-title">D&D Character Generator</h2>
+        <h2 className="project-title">Dungeons & Documents</h2>
         <div className="project-details">
           <img className="dnd-gif" src={dndGif} />
           <p className="project-blurb">
@@ -114,6 +117,21 @@ const Projects = () => {
             hosted REST API.
             <br></br>
             <br></br>- End to End Testing was implemented via Cypress.
+            <br></br>
+            <br></br>
+            <a
+              target="_blank"
+              href="https://ant-shell.github.io/dnd-stretch-tech/"
+            >
+              View the Application
+            </a>
+            <br></br>
+            <a
+              target="_blank"
+              href="https://github.com/Ant-Shell/dnd-stretch-tech"
+            >
+              View the GitHub repository
+            </a>
           </p>
         </div>
       </div>
@@ -127,8 +145,23 @@ const Projects = () => {
             <br></br>
             <br></br>- Data from a REST API, running on a local server, was
             extracted using fetch calls. <br></br>
-            <br></br>- Utilized Class to Class interaction in order to successfully posted data to the REST API running on a
-            local server.
+            <br></br>- Utilized Class to Class interaction in order to
+            successfully posted data to the REST API running on a local server.
+            <br></br>
+            <br></br>
+            <a
+              target="_blank"
+              href="https://ant-shell.github.io/dnd-stretch-tech/"
+            >
+              View the Application
+            </a>
+            <br></br>
+            <a
+              target="_blank"
+              href="https://github.com/Ant-Shell/dnd-stretch-tech"
+            >
+              View the GitHub repository
+            </a>
           </p>
         </div>
       </div>
