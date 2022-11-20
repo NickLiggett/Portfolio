@@ -4,7 +4,6 @@ import mountainPic from "../../images/mountain-nick.jpeg"
 const AboutMe = () => {
   return (
     <div className="about-me">
-      <img className="mountainPic" src={mountainPic}/>
       <p className="about-me-blurb">
         Hello! My name is Nicholas Liggett, a Denver based Front End Software
         Developer. I have experience in Property Management as a Lead
@@ -16,6 +15,7 @@ const AboutMe = () => {
         includes JavaScript, React, React Native, TypeScript, and Node,
         utilizing Test-Driven Development.
       </p>
+      <img className="mountainPic" src={mountainPic}/>
     </div>
   );
 };

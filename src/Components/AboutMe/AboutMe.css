@@ -11,12 +11,11 @@
 }
 
 .about-me-blurb {
-    padding: 3em;
-    padding-top: 1em;
-    padding-bottom: 1em;
+    padding: 2em;
     font-size: 1.5em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     width: 80%;
+    height: 40%;
     text-align: center;
     background-color: rgba(120, 90, 250, 0.3);
     border-radius: 5em 0.5em;
