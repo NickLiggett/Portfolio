@@ -1,5 +1,4 @@
 import "./AboutMe.css";
-import mountainPic from "../../images/mountain-nick.jpeg"
 import senatorLiggett from "../../images/senator_liggett.jpeg"
 
 const AboutMe = () => {

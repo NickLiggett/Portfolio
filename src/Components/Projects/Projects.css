@@ -9,7 +9,7 @@
 .project {
     display: flex;
     flex-direction: column;
-    height: 1000px;
+    height: auto;
     width: 80%;
     margin: 1%;
     text-align: center;
