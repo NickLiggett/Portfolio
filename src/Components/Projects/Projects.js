@@ -33,7 +33,12 @@ const Projects = () => {
             <br></br> - Heroku was used by the Back End to setup the parsed REST
             API. <br></br>
             <br></br>
-            <a target="_blank" href="https://github.com/Squadfinder/frontend">
+            <br></br>
+            <a
+              className="link"
+              target="_blank"
+              href="https://github.com/Squadfinder/frontend"
+            >
               View the GitHub repository
             </a>
           </p>
@@ -56,7 +61,9 @@ const Projects = () => {
             intercept and stub fetch calls for End to End Testing with Cypress.{" "}
             <br></br>
             <br></br>
+            <br></br>
             <a
+              className="link"
               target="_blank"
               href="https://nickliggett.github.io/WhoSaidThat-LOTR/"
             >
@@ -64,6 +71,7 @@ const Projects = () => {
             </a>
             <br></br>
             <a
+              className="link"
               target="_blank"
               href="https://github.com/NickLiggett/WhoSaidThat-LOTR"
             >
@@ -85,10 +93,13 @@ const Projects = () => {
             on a data structure received as a promise from a fetch call to a
             hosted REST API.
             <br></br>
-            <br></br>- End to End Testing was implemented via Cypress.
+            <br></br>- Created a robust End to End Testing Suite that thoroughly
+            tests all functionality of the client-side application with Cypress.
+            <br></br>
             <br></br>
             <br></br>
             <a
+              className="link"
               target="_blank"
               href="https://nickliggett.github.io/RandyTomBurritos/"
             >
@@ -96,6 +107,7 @@ const Projects = () => {
             </a>
             <br></br>
             <a
+              className="link"
               target="_blank"
               href="https://github.com/NickLiggett/RandyTomBurritos"
             >
@@ -116,10 +128,13 @@ const Projects = () => {
             on a data structure received as a promise from a fetch call to a
             hosted REST API.
             <br></br>
-            <br></br>- End to End Testing was implemented via Cypress.
+            <br></br>- Created a robust End to End Testing Suite that thoroughly
+            tests all functionality of the client-side application with Cypress.
+            <br></br>
             <br></br>
             <br></br>
             <a
+              className="link"
               target="_blank"
               href="https://ant-shell.github.io/dnd-stretch-tech/"
             >
@@ -127,6 +142,7 @@ const Projects = () => {
             </a>
             <br></br>
             <a
+              className="link"
               target="_blank"
               href="https://github.com/Ant-Shell/dnd-stretch-tech"
             >
@@ -144,12 +160,16 @@ const Projects = () => {
             <br></br>- This project was built in vanilla JavaScript.
             <br></br>
             <br></br>- Data from a REST API, running on a local server, was
-            extracted using fetch calls. <br></br>
-            <br></br>- Utilized Class to Class interaction in order to
-            successfully posted data to the REST API running on a local server.
+            extracted using fetch calls.
+            <br></br>
+            <br></br>- Utilized Class to Class Interaction, Object Oriented
+            Programming, and the Fetch API in order to successfully retrieve and
+            add data to a REST API running on a local server.
+            <br></br>
             <br></br>
             <br></br>
             <a
+              className="link"
               target="_blank"
               href="https://ant-shell.github.io/dnd-stretch-tech/"
             >
@@ -157,6 +177,7 @@ const Projects = () => {
             </a>
             <br></br>
             <a
+              className="link"
               target="_blank"
               href="https://github.com/Ant-Shell/dnd-stretch-tech"
             >
