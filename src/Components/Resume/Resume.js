@@ -9,7 +9,6 @@ const Resume = () => {
       src={resumePDF}
       style={{width: '90%', height: '75rem'}}
     ></embed>
-    // <img src={resume} style={{width: "60%"}}/>
   );
 };
 

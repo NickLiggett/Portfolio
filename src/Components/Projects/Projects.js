@@ -171,15 +171,7 @@ const Projects = () => {
             <a
               className="link"
               target="_blank"
-              href="https://ant-shell.github.io/dnd-stretch-tech/"
-            >
-              View the Application
-            </a>
-            <br></br>
-            <a
-              className="link"
-              target="_blank"
-              href="https://github.com/Ant-Shell/dnd-stretch-tech"
+              href="https://github.com/NickLiggett/Overlook/"
             >
               View the GitHub repository
             </a>
