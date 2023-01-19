@@ -1,5 +1,4 @@
 import "./Resume.css";
-import resume from "../../images/Resume.png";
 import resumePDF from "../../images/Nicholas Liggett Resume.pdf"
 
 const Resume = () => {
